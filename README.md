@@ -1,0 +1,1 @@
+# spring-boot-java-thymeleaf-secure-archetype
